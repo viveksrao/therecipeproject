@@ -1,0 +1,35 @@
+{
+  "name": "therecipeproject",
+  "version": "1.0.0",
+  "description": "A Demo project which shows how to tie React, Webpack, Babel, and Falcor together for an amazing development experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksrao/therecipeproject.git"
+  },
+  "keywords": [
+    "React",
+    "Babel",
+    "Webpack",
+    "Falcor"
+  ],
+  "author": "Vivekanand Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveksrao/therecipeproject/issues"
+  },
+  "homepage": "https://github.com/viveksrao/therecipeproject#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "falcor": "^0.1.13",
+    "lodash": "^3.10.1",
+    "react": "^0.14.0"
+  }
+}
